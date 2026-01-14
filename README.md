@@ -22,3 +22,4 @@ It's a simple Next.js app connected to Firebase so we can all vote at the same t
 
 ---
 *This isn't a startup or a product, just a weekend project for the boys.*
+https://namert.vercel.app/
